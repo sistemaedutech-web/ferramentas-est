@@ -1,0 +1,6 @@
+{
+  "name": "Portal do Professor e Funcionários - Santa Teresinha",
+  "description": "Plataforma de acesso rápido exclusiva para professores e funcionários da Escola Santa Teresinha (home.esantateresinha.com.br) - SuperPei, Diários Online e Gestão Escolar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
